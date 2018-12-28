@@ -213,6 +213,18 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
+||windrunner.me
+||gitlab.com
+||googleapis.com
+||pecl.php.net
+||dl.google.com
+||golangtc.com
+||dl.google.com
+||toptal.com
+||wetransfer.com
+||costco.com
+||pticket.com
+||nextcloud.com
 
 !##############General List Start###############
 !-------------------Pure IP---------------------
